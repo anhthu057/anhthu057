@@ -19,6 +19,7 @@
 ---
 
 ### 📫 Contact
-- **Phone:** [+84 354136708].
 - **Email:** [thu.nguyenanh05@hcmut.edu.vn](mailto:thu.nguyenanh05@hcmut.edu.vn)
+- **Personal:** [nathuw1010@gmail.com](mailto:nathuw1010@gmail.com)
+- **Phone:** +84 354 136 708
 - **Location:** Ho Chi Minh City, Vietnam
