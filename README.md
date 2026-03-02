@@ -1,22 +1,24 @@
-# Hi, I'm Anh Thu 👋
+# Hi, I'm Nguyen Anh Thu! 🚀
 
-### Computer Engineering Undergraduate @ HCMUT
-*Specializing in Hardware, Embedded Systems & FPGA*
+**Third-year Computer Engineering Student @ HCMUT** Focused on **Digital IC Design** and **Embedded Systems**.
 
 ---
 
-## 🛠 Skills & Tech Stack
-- **Languages:** C/C++, Verilog, Python.
-- **Hardware:** STM32, ESP32, FPGA (Quartus), PCB Design (Altium).
-- **Control:** PID Control, Communication Protocols (I2C, SPI, UART).
-- **Tools:** Git, Linux, Keil C.
+### 🛠 Tech Stack
+- **HDL:** Verilog, SystemVerilog (basic UVM), RTL Simulation.
+- **Embedded:** C/C++, Python, Assembly (MIPS), STM32, ESP32.
+- **Hardware:** FPGA (Arty-Z7), Altium Designer, Proteus.
+- **Tools:** Vivado, STM32CubeIDE, Linux (WSL), Git.
 
-## 🚀 Key Projects
-- **Self-Balancing Robot:** ESP32-based robot using PID for real-time stabilization.
-- **4-Wheel RC Car:** STM32-driven car with Bluetooth remote control.
-- **Smart Home App:** IoT mobile application for device management.
+---
 
-## 📫 Contact Me
-- 📧 Email: [thu.nguyenanh05@hcmut.edu.vn](mailto:thu.nguyenanh05@hcmut.edu.vn)
-- 💼 LinkedIn: [Your-LinkedIn-Link]
-- 📁 GitHub: [anhthu057](https://github.com/anhthu057)
+### 🚀 Key Projects
+- **16-bit RISC CPU:** MIPS-based architecture with a 5-stage pipeline. Designed in Verilog and verified via Vivado.
+- **Traffic Control System:** Real-time STM32 system using FSM and Timer Interrupts for stable state transitions.
+
+---
+
+### 📫 Contact
+- **Phone:** [+84 354136708](tel:+84354136708)
+- **Email:** [thu.nguyenanh05@hcmut.edu.vn](mailto:thu.nguyenanh05@hcmut.edu.vn)
+- **Location:** Ho Chi Minh City, Vietnam
